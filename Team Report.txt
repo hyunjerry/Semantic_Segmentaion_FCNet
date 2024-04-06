@@ -1,0 +1,30 @@
+Team A+
+Seunghwan Hyun, Qi Hao, Ziye Chen 
+
+We used chatGPT for enhanced eloquency.
+
+1. Explain the difference between the task of classification and segmentation, explain why there might be conflicts between the two tasks.
+
+Answer:
+The fundamental difference between classification and segmentation lies in their operational focus and outcomes. Classification assigns a single label to the entire image, identifying it as belonging to a particular category, which simplifies the image's complexity to one overarching theme. On the other hand, segmentation dissects the image into multiple segments, assigning a class to each pixel, thus necessitating a detailed understanding of both the semantic content and the precise location of objects within the image. The main conflict between these tasks emerges from the methodological simplification in classification, which may neglect the spatial details crucial for segmentation. This disparity is especially evident when downscaling images for feature extraction, as it can dilute the fine-grained details needed for accurate pixel-wise segmentation.
+
+
+2. Introduce how FCN addresses the conflicts. Then introduce different versions of FCN, and explain how they balance the trade-off.
+
+Answer:
+Fully Convolutional Networks (FCN) innovatively reconcile the disparity between classification and segmentation through the implementation of skip connections. These connections adeptly merge deep, semantically rich information from the later layers with the finer, surface-level details available in the earlier layers, ensuring both broad and precise understanding of the image. Specifically, FCN-32 directly upsamples the output from its deepest layer to match the original image size, capturing broad semantic information. FCN-16 enhances this approach by amalgamating features from both the deepest layer and the pool4 layer, enriching the output with finer details without compromising semantic integrity. FCN-8 further refines this technique by incorporating details from an even earlier layer, striking an optimal balance between semantic depth and detailed precision in predictions.
+
+
+3. Compare the evaluation metrics of pixel accuracy and IU introduced in the paper. Also compare mean IU and frequency-weighted IU. 
+
+Answer:
+Pixel Accuracy quantifies the model's overall effectiveness by calculating the ratio of correctly identified pixels (TP+TN) to the total number of pixels in the dataset. While it offers a broad measure of accuracy, Pixel Accuracy can be misleading in imbalanced datasets where a majority class dominates. Conversely, the Intersection over Union (IoU) metric evaluates model precision on a class-by-class basis by measuring the overlap between predicted and actual class areas, thereby providing a nuanced view of the model's ability to correctly delineate class boundaries. This makes IoU a more reliable indicator of segmentation accuracy, especially in complex scenes with multiple object classes.
+
+Mean Intersection over Union (MIoU) calculates the IoU for all classes regardless of their presence frequency in dataset and take the average of these values. All the classes are treated equally without weights for each class. However, Frequency-weighted Intersection over Union calculates the IoU based on the pixel size of each class in the dataset. This means that if class A's pixel appears frequently in datasets, IoU of class A will have larger weight when merging the IoU for all classes. Weights for each class is calculated by proportion of pixels for each class in the dataset. This metric is more pratical if some classes have more pixels than other classes.
+
+
+
+4. Comment on the limitations of FCN and potential rough directions for further improvements. 
+
+Answer:
+The reliance of Fully Convolutional Networks (FCN) on extensive, meticulously labeled datasets constitutes a significant limitation, rendering the training process both resource-intensive and time-consuming. To mitigate this dependency, future research could explore leveraging semi-supervised or unsupervised learning techniques, potentially reducing the need for large volumes of labeled data. Additionally, the process of upscaling in FCNs can introduce ambiguities at the pixel level, affecting the precision of segmentation. Enhancing the integration of features across layers to ensure a seamless transition from coarse to fine resolution could address this issue. Furthermore, the incorporation of advanced deep learning strategies, such as attention mechanisms or Generative Adversarial Networks (GANs), could offer new avenues for enhancing the model's ability to discern and accurately segment complex images, thereby overcoming some of the current limitations.

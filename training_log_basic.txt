@@ -1,0 +1,308 @@
+Epoch [1/50], Step [10/24], Loss: 15.9490
+Epoch [1/50], Step [20/24], Loss: 2.6586
+One Epoch: 78.18541979789734 seconds
+100% 100/100 [00:20<00:00,  4.87it/s]
+Evaluation time: 20.59 seconds
+Pixel accuracy: 0.4504, Mean IoU: 0.0394, Frequency weighted IoU: 0.2553, Loss: 1.8503
+Epoch [2/50], Step [10/24], Loss: 1.7426
+Epoch [2/50], Step [20/24], Loss: 1.3724
+One Epoch: 75.91009068489075 seconds
+100% 100/100 [00:20<00:00,  4.84it/s]
+Evaluation time: 20.66 seconds
+Pixel accuracy: 0.6114, Mean IoU: 0.0649, Frequency weighted IoU: 0.4241, Loss: 1.3811
+Epoch [3/50], Step [10/24], Loss: 1.2659
+Epoch [3/50], Step [20/24], Loss: 1.1616
+One Epoch: 77.0528564453125 seconds
+100% 100/100 [00:20<00:00,  4.78it/s]
+Evaluation time: 20.94 seconds
+Pixel accuracy: 0.6638, Mean IoU: 0.0804, Frequency weighted IoU: 0.4877, Loss: 1.1520
+Epoch [4/50], Step [10/24], Loss: 1.0771
+Epoch [4/50], Step [20/24], Loss: 1.0102
+One Epoch: 76.0020055770874 seconds
+100% 100/100 [00:21<00:00,  4.74it/s]
+Evaluation time: 21.09 seconds
+Pixel accuracy: 0.6815, Mean IoU: 0.0960, Frequency weighted IoU: 0.5265, Loss: 1.1008
+Epoch [5/50], Step [10/24], Loss: 1.0146
+Epoch [5/50], Step [20/24], Loss: 0.9318
+One Epoch: 76.89362955093384 seconds
+100% 100/100 [00:20<00:00,  4.77it/s]
+Evaluation time: 20.99 seconds
+Pixel accuracy: 0.7274, Mean IoU: 0.1030, Frequency weighted IoU: 0.5634, Loss: 0.9343
+Epoch [6/50], Step [10/24], Loss: 0.8632
+Epoch [6/50], Step [20/24], Loss: 0.8037
+One Epoch: 76.04904508590698 seconds
+100% 100/100 [00:20<00:00,  4.80it/s]
+Evaluation time: 20.83 seconds
+Pixel accuracy: 0.7629, Mean IoU: 0.1305, Frequency weighted IoU: 0.6243, Loss: 0.8450
+Epoch [7/50], Step [10/24], Loss: 0.7344
+Epoch [7/50], Step [20/24], Loss: 0.7501
+One Epoch: 79.44346523284912 seconds
+100% 100/100 [00:20<00:00,  4.78it/s]
+Evaluation time: 20.93 seconds
+Pixel accuracy: 0.7463, Mean IoU: 0.1245, Frequency weighted IoU: 0.5945, Loss: 1.0197
+Epoch [8/50], Step [10/24], Loss: 0.7960
+Epoch [8/50], Step [20/24], Loss: 0.7688
+One Epoch: 76.9555275440216 seconds
+100% 100/100 [00:20<00:00,  4.77it/s]
+Evaluation time: 20.95 seconds
+Pixel accuracy: 0.7843, Mean IoU: 0.1467, Frequency weighted IoU: 0.6474, Loss: 0.7668
+Epoch [9/50], Step [10/24], Loss: 0.7231
+Epoch [9/50], Step [20/24], Loss: 0.7098
+One Epoch: 76.58120059967041 seconds
+100% 100/100 [00:20<00:00,  4.90it/s]
+Evaluation time: 20.40 seconds
+Pixel accuracy: 0.7680, Mean IoU: 0.1377, Frequency weighted IoU: 0.6289, Loss: 0.8362
+Epoch [10/50], Step [10/24], Loss: 0.6409
+Epoch [10/50], Step [20/24], Loss: 0.6658
+One Epoch: 75.28052306175232 seconds
+100% 100/100 [00:20<00:00,  4.91it/s]
+Evaluation time: 20.36 seconds
+Pixel accuracy: 0.7471, Mean IoU: 0.1503, Frequency weighted IoU: 0.6317, Loss: 0.8956
+Epoch [11/50], Step [10/24], Loss: 0.7699
+Epoch [11/50], Step [20/24], Loss: 0.6357
+One Epoch: 78.99124789237976 seconds
+100% 100/100 [00:20<00:00,  4.93it/s]
+Evaluation time: 20.27 seconds
+Pixel accuracy: 0.8072, Mean IoU: 0.1699, Frequency weighted IoU: 0.6822, Loss: 0.7146
+Epoch [12/50], Step [10/24], Loss: 0.6961
+Epoch [12/50], Step [20/24], Loss: 0.6422
+One Epoch: 77.3417284488678 seconds
+100% 100/100 [00:20<00:00,  4.77it/s]
+Evaluation time: 20.97 seconds
+Pixel accuracy: 0.8095, Mean IoU: 0.1774, Frequency weighted IoU: 0.6950, Loss: 0.6881
+Epoch [13/50], Step [10/24], Loss: 0.6154
+Epoch [13/50], Step [20/24], Loss: 0.5847
+One Epoch: 77.40386986732483 seconds
+100% 100/100 [00:20<00:00,  4.90it/s]
+Evaluation time: 20.40 seconds
+Pixel accuracy: 0.8232, Mean IoU: 0.1923, Frequency weighted IoU: 0.7080, Loss: 0.6186
+Epoch [14/50], Step [10/24], Loss: 0.5743
+Epoch [14/50], Step [20/24], Loss: 0.5559
+One Epoch: 78.02185106277466 seconds
+100% 100/100 [00:20<00:00,  4.91it/s]
+Evaluation time: 20.36 seconds
+Pixel accuracy: 0.8278, Mean IoU: 0.2000, Frequency weighted IoU: 0.7185, Loss: 0.6107
+Epoch [15/50], Step [10/24], Loss: 0.5786
+Epoch [15/50], Step [20/24], Loss: 0.5237
+One Epoch: 77.0627977848053 seconds
+100% 100/100 [00:20<00:00,  4.89it/s]
+Evaluation time: 20.45 seconds
+Pixel accuracy: 0.8241, Mean IoU: 0.1964, Frequency weighted IoU: 0.7116, Loss: 0.6355
+Epoch [16/50], Step [10/24], Loss: 0.5564
+Epoch [16/50], Step [20/24], Loss: 0.5461
+One Epoch: 76.66126155853271 seconds
+100% 100/100 [00:20<00:00,  4.93it/s]
+Evaluation time: 20.27 seconds
+Pixel accuracy: 0.8240, Mean IoU: 0.2018, Frequency weighted IoU: 0.7089, Loss: 0.6322
+Epoch [17/50], Step [10/24], Loss: 0.6266
+Epoch [17/50], Step [20/24], Loss: 0.6011
+One Epoch: 76.50502800941467 seconds
+100% 100/100 [00:20<00:00,  4.84it/s]
+Evaluation time: 20.66 seconds
+Pixel accuracy: 0.8144, Mean IoU: 0.1952, Frequency weighted IoU: 0.6924, Loss: 0.6696
+Epoch [18/50], Step [10/24], Loss: 0.5519
+Epoch [18/50], Step [20/24], Loss: 0.5175
+One Epoch: 76.414377450943 seconds
+100% 100/100 [00:20<00:00,  4.93it/s]
+Evaluation time: 20.29 seconds
+Pixel accuracy: 0.8359, Mean IoU: 0.2164, Frequency weighted IoU: 0.7232, Loss: 0.5735
+Epoch [19/50], Step [10/24], Loss: 0.4947
+Epoch [19/50], Step [20/24], Loss: 0.4580
+One Epoch: 74.11194682121277 seconds
+100% 100/100 [00:20<00:00,  4.89it/s]
+Evaluation time: 20.44 seconds
+Pixel accuracy: 0.8419, Mean IoU: 0.2227, Frequency weighted IoU: 0.7345, Loss: 0.5504
+Epoch [20/50], Step [10/24], Loss: 0.4965
+Epoch [20/50], Step [20/24], Loss: 0.4820
+One Epoch: 74.43086075782776 seconds
+100% 100/100 [00:20<00:00,  4.85it/s]
+Evaluation time: 20.61 seconds
+Pixel accuracy: 0.8482, Mean IoU: 0.2396, Frequency weighted IoU: 0.7476, Loss: 0.5330
+Epoch [21/50], Step [10/24], Loss: 0.4459
+Epoch [21/50], Step [20/24], Loss: 0.4686
+One Epoch: 78.62098383903503 seconds
+100% 100/100 [00:20<00:00,  4.85it/s]
+Evaluation time: 20.60 seconds
+Pixel accuracy: 0.8423, Mean IoU: 0.2289, Frequency weighted IoU: 0.7375, Loss: 0.5566
+Epoch [22/50], Step [10/24], Loss: 0.4492
+Epoch [22/50], Step [20/24], Loss: 0.4590
+One Epoch: 76.6336133480072 seconds
+100% 100/100 [00:20<00:00,  4.85it/s]
+Evaluation time: 20.62 seconds
+Pixel accuracy: 0.8468, Mean IoU: 0.2524, Frequency weighted IoU: 0.7545, Loss: 0.5230
+Epoch [23/50], Step [10/24], Loss: 0.4507
+Epoch [23/50], Step [20/24], Loss: 0.4516
+One Epoch: 76.35588097572327 seconds
+100% 100/100 [00:20<00:00,  4.97it/s]
+Evaluation time: 20.13 seconds
+Pixel accuracy: 0.8419, Mean IoU: 0.2505, Frequency weighted IoU: 0.7499, Loss: 0.5475
+Epoch [24/50], Step [10/24], Loss: 0.4250
+Epoch [24/50], Step [20/24], Loss: 0.4188
+One Epoch: 74.92175459861755 seconds
+100% 100/100 [00:21<00:00,  4.75it/s]
+Evaluation time: 21.04 seconds
+Pixel accuracy: 0.8603, Mean IoU: 0.2792, Frequency weighted IoU: 0.7643, Loss: 0.4852
+Epoch [25/50], Step [10/24], Loss: 0.4040
+Epoch [25/50], Step [20/24], Loss: 0.3986
+One Epoch: 77.73157286643982 seconds
+100% 100/100 [00:20<00:00,  4.88it/s]
+Evaluation time: 20.48 seconds
+Pixel accuracy: 0.8609, Mean IoU: 0.2846, Frequency weighted IoU: 0.7652, Loss: 0.4768
+Epoch [26/50], Step [10/24], Loss: 0.3919
+Epoch [26/50], Step [20/24], Loss: 0.4063
+One Epoch: 75.46332788467407 seconds
+100% 100/100 [00:20<00:00,  4.86it/s]
+Evaluation time: 20.58 seconds
+Pixel accuracy: 0.8583, Mean IoU: 0.2904, Frequency weighted IoU: 0.7715, Loss: 0.4762
+Epoch [27/50], Step [10/24], Loss: 0.3908
+Epoch [27/50], Step [20/24], Loss: 0.3874
+One Epoch: 75.01793336868286 seconds
+100% 100/100 [00:20<00:00,  4.97it/s]
+Evaluation time: 20.11 seconds
+Pixel accuracy: 0.8594, Mean IoU: 0.2840, Frequency weighted IoU: 0.7686, Loss: 0.4947
+Epoch [28/50], Step [10/24], Loss: 0.3814
+Epoch [28/50], Step [20/24], Loss: 0.4133
+One Epoch: 75.582195520401 seconds
+100% 100/100 [00:20<00:00,  4.86it/s]
+Evaluation time: 20.57 seconds
+Pixel accuracy: 0.8620, Mean IoU: 0.2878, Frequency weighted IoU: 0.7694, Loss: 0.4695
+Epoch [29/50], Step [10/24], Loss: 0.3675
+Epoch [29/50], Step [20/24], Loss: 0.3799
+One Epoch: 77.35553979873657 seconds
+100% 100/100 [00:20<00:00,  4.84it/s]
+Evaluation time: 20.65 seconds
+Pixel accuracy: 0.7864, Mean IoU: 0.2277, Frequency weighted IoU: 0.7046, Loss: 0.6902
+Epoch [30/50], Step [10/24], Loss: 0.4773
+Epoch [30/50], Step [20/24], Loss: 0.4154
+One Epoch: 76.28416967391968 seconds
+100% 100/100 [00:20<00:00,  4.93it/s]
+Evaluation time: 20.30 seconds
+Pixel accuracy: 0.8537, Mean IoU: 0.2855, Frequency weighted IoU: 0.7620, Loss: 0.5077
+Epoch [31/50], Step [10/24], Loss: 0.4117
+Epoch [31/50], Step [20/24], Loss: 0.3780
+One Epoch: 75.73142194747925 seconds
+100% 100/100 [00:20<00:00,  4.87it/s]
+Evaluation time: 20.52 seconds
+Pixel accuracy: 0.8652, Mean IoU: 0.2984, Frequency weighted IoU: 0.7751, Loss: 0.4589
+Epoch [32/50], Step [10/24], Loss: 0.4045
+Epoch [32/50], Step [20/24], Loss: 0.3835
+One Epoch: 78.44030427932739 seconds
+100% 100/100 [00:21<00:00,  4.74it/s]
+Evaluation time: 21.08 seconds
+Pixel accuracy: 0.8656, Mean IoU: 0.3139, Frequency weighted IoU: 0.7769, Loss: 0.4542
+Epoch [33/50], Step [10/24], Loss: 0.3689
+Epoch [33/50], Step [20/24], Loss: 0.3673
+One Epoch: 75.48096895217896 seconds
+100% 100/100 [00:20<00:00,  4.96it/s]
+Evaluation time: 20.15 seconds
+Pixel accuracy: 0.8727, Mean IoU: 0.3205, Frequency weighted IoU: 0.7868, Loss: 0.4334
+Epoch [34/50], Step [10/24], Loss: 0.3400
+Epoch [34/50], Step [20/24], Loss: 0.3306
+One Epoch: 77.04001498222351 seconds
+100% 100/100 [00:20<00:00,  4.94it/s]
+Evaluation time: 20.26 seconds
+Pixel accuracy: 0.8744, Mean IoU: 0.3316, Frequency weighted IoU: 0.7872, Loss: 0.4194
+Epoch [35/50], Step [10/24], Loss: 0.3475
+Epoch [35/50], Step [20/24], Loss: 0.3645
+One Epoch: 75.96579170227051 seconds
+100% 100/100 [00:20<00:00,  4.80it/s]
+Evaluation time: 20.82 seconds
+Pixel accuracy: 0.8713, Mean IoU: 0.3238, Frequency weighted IoU: 0.7859, Loss: 0.4383
+Epoch [36/50], Step [10/24], Loss: 0.3494
+Epoch [36/50], Step [20/24], Loss: 0.3403
+One Epoch: 76.65282845497131 seconds
+100% 100/100 [00:20<00:00,  4.82it/s]
+Evaluation time: 20.73 seconds
+Pixel accuracy: 0.8606, Mean IoU: 0.3028, Frequency weighted IoU: 0.7740, Loss: 0.4561
+Epoch [37/50], Step [10/24], Loss: 0.3572
+Epoch [37/50], Step [20/24], Loss: 0.3504
+One Epoch: 75.86608338356018 seconds
+100% 100/100 [00:20<00:00,  4.99it/s]
+Evaluation time: 20.06 seconds
+Pixel accuracy: 0.8711, Mean IoU: 0.3254, Frequency weighted IoU: 0.7854, Loss: 0.4347
+Epoch [38/50], Step [10/24], Loss: 0.3514
+Epoch [38/50], Step [20/24], Loss: 0.3371
+One Epoch: 76.26372957229614 seconds
+100% 100/100 [00:20<00:00,  4.79it/s]
+Evaluation time: 20.87 seconds
+Pixel accuracy: 0.8703, Mean IoU: 0.3261, Frequency weighted IoU: 0.7844, Loss: 0.4444
+Epoch [39/50], Step [10/24], Loss: 0.3147
+Epoch [39/50], Step [20/24], Loss: 0.3498
+One Epoch: 79.6353166103363 seconds
+100% 100/100 [00:20<00:00,  4.83it/s]
+Evaluation time: 20.72 seconds
+Pixel accuracy: 0.8763, Mean IoU: 0.3409, Frequency weighted IoU: 0.7914, Loss: 0.4162
+Epoch [40/50], Step [10/24], Loss: 0.3137
+Epoch [40/50], Step [20/24], Loss: 0.3220
+One Epoch: 77.81387877464294 seconds
+100% 100/100 [00:20<00:00,  4.88it/s]
+Evaluation time: 20.48 seconds
+Pixel accuracy: 0.8754, Mean IoU: 0.3454, Frequency weighted IoU: 0.7901, Loss: 0.4153
+Epoch [41/50], Step [10/24], Loss: 0.3238
+Epoch [41/50], Step [20/24], Loss: 0.3298
+One Epoch: 76.11407995223999 seconds
+100% 100/100 [00:20<00:00,  4.89it/s]
+Evaluation time: 20.45 seconds
+Pixel accuracy: 0.8776, Mean IoU: 0.3431, Frequency weighted IoU: 0.7899, Loss: 0.4176
+Epoch [42/50], Step [10/24], Loss: 0.3189
+Epoch [42/50], Step [20/24], Loss: 0.3117
+One Epoch: 75.81981229782104 seconds
+100% 100/100 [00:20<00:00,  4.89it/s]
+Evaluation time: 20.46 seconds
+Pixel accuracy: 0.8796, Mean IoU: 0.3310, Frequency weighted IoU: 0.7945, Loss: 0.4100
+Epoch [43/50], Step [10/24], Loss: 0.3004
+Epoch [43/50], Step [20/24], Loss: 0.3072
+One Epoch: 75.8022849559784 seconds
+100% 100/100 [00:20<00:00,  4.88it/s]
+Evaluation time: 20.50 seconds
+Pixel accuracy: 0.8795, Mean IoU: 0.3454, Frequency weighted IoU: 0.7954, Loss: 0.4001
+Epoch [44/50], Step [10/24], Loss: 0.2843
+Epoch [44/50], Step [20/24], Loss: 0.3372
+One Epoch: 76.71984529495239 seconds
+100% 100/100 [00:20<00:00,  4.88it/s]
+Evaluation time: 20.51 seconds
+Pixel accuracy: 0.8757, Mean IoU: 0.3359, Frequency weighted IoU: 0.7904, Loss: 0.4113
+Epoch [45/50], Step [10/24], Loss: 0.2730
+Epoch [45/50], Step [20/24], Loss: 0.3119
+One Epoch: 78.17206287384033 seconds
+100% 100/100 [00:20<00:00,  4.97it/s]
+Evaluation time: 20.12 seconds
+Pixel accuracy: 0.8802, Mean IoU: 0.3641, Frequency weighted IoU: 0.8014, Loss: 0.4016
+Epoch [46/50], Step [10/24], Loss: 0.3195
+Epoch [46/50], Step [20/24], Loss: 0.2843
+One Epoch: 76.76404452323914 seconds
+100% 100/100 [00:20<00:00,  4.89it/s]
+Evaluation time: 20.47 seconds
+Pixel accuracy: 0.8837, Mean IoU: 0.3682, Frequency weighted IoU: 0.8033, Loss: 0.3846
+Epoch [47/50], Step [10/24], Loss: 0.2710
+Epoch [47/50], Step [20/24], Loss: 0.2858
+One Epoch: 77.08658862113953 seconds
+100% 100/100 [00:20<00:00,  4.81it/s]
+Evaluation time: 20.80 seconds
+Pixel accuracy: 0.8868, Mean IoU: 0.3773, Frequency weighted IoU: 0.8061, Loss: 0.3786
+Epoch [48/50], Step [10/24], Loss: 0.2664
+Epoch [48/50], Step [20/24], Loss: 0.2711
+One Epoch: 78.42721056938171 seconds
+100% 100/100 [00:20<00:00,  4.88it/s]
+Evaluation time: 20.51 seconds
+Pixel accuracy: 0.8813, Mean IoU: 0.3713, Frequency weighted IoU: 0.8019, Loss: 0.3985
+Epoch [49/50], Step [10/24], Loss: 0.2982
+Epoch [49/50], Step [20/24], Loss: 0.2902
+One Epoch: 78.53726434707642 seconds
+100% 100/100 [00:20<00:00,  4.90it/s]
+Evaluation time: 20.40 seconds
+Pixel accuracy: 0.8848, Mean IoU: 0.3707, Frequency weighted IoU: 0.8045, Loss: 0.3853
+Epoch [50/50], Step [10/24], Loss: 0.2648
+Epoch [50/50], Step [20/24], Loss: 0.2831
+One Epoch: 76.77267861366272 seconds
+100% 100/100 [00:20<00:00,  4.79it/s]
+Evaluation time: 20.87 seconds
+Pixel accuracy: 0.8834, Mean IoU: 0.3817, Frequency weighted IoU: 0.8035, Loss: 0.3894
+====================
+Finished Training, evaluating the model on the test set
+100% 232/232 [00:46<00:00,  4.94it/s]
+Evaluation time: 46.98 seconds
+Pixel accuracy: 0.8581, Mean IoU: 0.3379, Frequency weighted IoU: 0.7648, Loss: 0.4797
+====================
+Visualizing the model on the test set, the results will be saved in the vis/ directory
+100% 232/232 [00:57<00:00,  4.03it/s]
